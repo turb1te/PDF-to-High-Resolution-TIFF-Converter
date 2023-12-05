@@ -73,7 +73,7 @@ select:focus, input[type="file"]:focus, button:focus {
     transition: background-color 0.3s ease;
 }
 .calculate-button:hover {
-    background-color: #3081d0;
+    background-color: #1f5b9b;
 }
 .credits {
     background-color: #333;
@@ -97,7 +97,7 @@ select:focus, input[type="file"]:focus, button:focus {
    /* Slightly darker background color on hover */
 }
 button:hover {
-    background-color: #333;
+    background-color: #3a3a3a;
    /* Slightly darker background color on hover */
 }
 .scale-selector {
